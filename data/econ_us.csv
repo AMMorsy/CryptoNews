@@ -1,0 +1,7 @@
+﻿datetime_utc,event,importance,country,notes,source
+2025-10-10T12:30:00Z,US CPI (YoY),high,US,All Items CPI,basic
+2025-10-10T12:30:00Z,US Core CPI (YoY),high,US,Core CPI,basic
+2025-10-11T12:30:00Z,US Nonfarm Payrolls (NFP),high,US,Employment,basic
+2025-10-11T12:30:00Z,US Unemployment Rate,high,US,Employment,basic
+2025-10-12T18:00:00Z,Fed Chair Speech,high,US,Press conference,basic
+2025-10-13T18:00:00Z,FOMC Minutes,high,US,Policy,basic

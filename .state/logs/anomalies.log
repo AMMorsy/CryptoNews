@@ -1,0 +1,1600 @@
+[Sun 10/12/2025 16:53:53.48] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 51,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760277234,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 13:53 UTC\n\n• Cardano (ADA) — 1h -1.42% — Price $0.639811 — Vol 1,332,835,910",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 16:57:37.44] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 52,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760277458,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 13:57 UTC\n\n• Cardano (ADA) — 1h -1.49% — Price $0.639374 — Vol 1,291,456,407",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 17:12:01.57] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 54,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760278323,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 14:12 UTC\n\n• Cardano (ADA) — 1h -1.06% — Price $0.641975 — Vol 1,294,504,247",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 17:27:00.49] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 56,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760279221,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 14:27 UTC\n\n• Ethereum (ETH) — 1h +0.51% — Price $3,828.53 — Vol 40,054,503,630",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 17:42:00.44] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 57,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760280121,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 14:42 UTC\n\n• BNB (BNB) — 1h +0.84% — Price $1,235.37 — Vol 7,264,487,129",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 3,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 17:57:00.45] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 58,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760281021,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 14:57 UTC\n\n• Ethereum (ETH) — 1h +5.20% — Price $4,013.05 — Vol 44,770,510,420",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 18:12:00.48] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 59,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760281922,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 15:12 UTC\n\n• Chainlink (LINK) — 1h +5.46% — Price $18.34 — Vol 1,202,197,118",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 18:27:00.46] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 60,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760282822,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 15:27 UTC\n\n• Chainlink (LINK) — 1h +6.88% — Price $18.63 — Vol 1,251,420,496",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 18:42:00.40] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 62,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760283721,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 15:42 UTC\n\n• Chainlink (LINK) — 1h +6.09% — Price $18.48 — Vol 1,267,909,060",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 18:57:00.94] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 63,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760284622,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 15:57 UTC\n\n• Chainlink (LINK) — 1h +3.80% — Price $18.72 — Vol 1,358,035,452",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 19:12:00.43] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 64,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760285522,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 16:12 UTC\n\n• Chainlink (LINK) — 1h +3.58% — Price $19.01 — Vol 1,393,525,517",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 19:27:00.47] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 65,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760286422,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 16:27 UTC\n\n• Chainlink (LINK) — 1h +1.99% — Price $18.99 — Vol 1,402,497,040",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 19:42:00.49] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 66,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760287322,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 16:42 UTC\n\n• Chainlink (LINK) — 1h +2.77% — Price $18.98 — Vol 1,413,541,319",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 19:57:00.72] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 67,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760288222,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 16:57 UTC\n\n• Chainlink (LINK) — 1h +2.32% — Price $19.16 — Vol 1,462,622,974",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 20:12:00.56] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 68,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760289122,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 17:12 UTC\n\n• Ethereum (ETH) — 1h +1.22% — Price $4,132.02 — Vol 55,371,112,955",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 20:27:00.55] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 69,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760290022,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 17:27 UTC\n\n• Ethereum (ETH) — 1h +1.64% — Price $4,140.63 — Vol 55,201,675,284",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 20:42:00.57] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 70,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760290922,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 17:42 UTC\n\n• Ethereum (ETH) — 1h +1.47% — Price $4,137.37 — Vol 55,398,641,648",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 20:57:00.75] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 72,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760291822,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 17:57 UTC\n\n• Chainlink (LINK) — 1h -0.69% — Price $19.03 — Vol 1,496,312,900",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 21:12:00.69] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 73,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760292722,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 18:12 UTC\n\n• Cardano (ADA) — 1h +0.75% — Price $0.694985 — Vol 1,839,797,166",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 21:27:00.66] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 75,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760293622,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 18:27 UTC\n\n• Chainlink (LINK) — 1h -0.64% — Price $19.12 — Vol 1,509,584,184",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 21:42:00.74] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 76,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760294523,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 18:42 UTC\n\n• Solana (SOL) — 1h -1.17% — Price $193.29 — Vol 12,418,148,025",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 6,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 21:57:00.75] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 77,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760295422,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 18:57 UTC\n\n• Polkadot (DOT) — 1h -0.92% — Price $3.23 — Vol 446,037,188",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 22:12:00.82] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 79,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760296323,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 19:12 UTC\n\n• Polkadot (DOT) — 1h -0.59% — Price $3.25 — Vol 449,462,871",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 22:27:02.32] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 81,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760297225,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 19:27 UTC\n\n• Chainlink (LINK) — 1h +0.74% — Price $19.27 — Vol 1,495,552,825",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 22:42:00.89] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 84,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760298123,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 19:42 UTC\n\n• Chainlink (LINK) — 1h +1.38% — Price $19.27 — Vol 1,497,551,369",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 22:57:04.84] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 86,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760299031,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 19:57 UTC\n\n• Chainlink (LINK) — 1h +1.99% — Price $19.34 — Vol 1,483,309,610",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 9,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 23:12:02.45] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 87,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760299925,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 20:12 UTC\n\n• Cardano (ADA) — 1h +1.47% — Price $0.700279 — Vol 1,793,553,779",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 23:27:00.73] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 88,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760300822,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 20:27 UTC\n\n• Bitcoin (BTC) — 1h +0.50% — Price $114,923 — Vol 86,898,922,036",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 23:42:00.77] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 89,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760301723,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 20:42 UTC\n\n• Cardano (ADA) — 1h +1.19% — Price $0.704605 — Vol 1,785,862,137",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Sun 10/12/2025 23:57:00.86] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 90,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760302623,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 20:57 UTC\n\n• Cardano (ADA) — 1h +0.87% — Price $0.703898 — Vol 1,828,735,692",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  0:12:00.83] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 94,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760303523,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 21:12 UTC\n\n• BNB (BNB) — 1h +0.90% — Price $1,306.79 — Vol 8,891,165,415",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 3,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  0:27:01.03] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 98,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760304423,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 21:27 UTC\n\n• Ethereum (ETH) — 1h -0.43% — Price $4,127.16 — Vol 57,047,740,471",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  0:42:00.83] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 101,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760305323,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 21:42 UTC\n\n• Polkadot (DOT) — 1h -1.81% — Price $3.22 — Vol 403,659,029",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  0:57:01.79] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 102,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760306224,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 21:57 UTC\n\n• Cardano (ADA) — 1h -1.40% — Price $0.696271 — Vol 1,784,249,797",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 7,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  1:12:00.81] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 103,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760307123,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 22:12 UTC\n\n• BNB (BNB) — 1h -1.61% — Price $1,286.82 — Vol 8,804,369,210",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 3,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  1:27:00.87] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 104,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760308023,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 22:27 UTC\n\n• BNB (BNB) — 1h -1.30% — Price $1,283.85 — Vol 8,850,797,465",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 3,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  1:42:01.06] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 105,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760308923,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 22:42 UTC\n\n• Solana (SOL) — 1h +1.68% — Price $197.46 — Vol 12,188,750,659",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 6,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  1:57:00.89] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 106,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760309824,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 22:57 UTC\n\n• Solana (SOL) — 1h +1.34% — Price $197.69 — Vol 12,206,281,274",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 6,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  2:12:00.98] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 107,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760310723,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 23:12 UTC\n\n• Polkadot (DOT) — 1h -0.37% — Price $3.24 — Vol 400,157,241",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
+[Mon 10/13/2025  2:27:00.90] anomalies tick 
+{
+  "sent": {
+    "ok": true,
+    "result": {
+      "message_id": 108,
+      "from": {
+        "id": 8306097487,
+        "is_bot": true,
+        "first_name": "CryptoNews",
+        "username": "MyVolatilityWatcherBot"
+      },
+      "chat": {
+        "id": 166237035,
+        "first_name": "Ahmed",
+        "last_name": "Morsy",
+        "username": "AhmadMorsi",
+        "type": "private"
+      },
+      "date": 1760311623,
+      "text": "⚡ Market Anomalies (below threshold — showing top mover for visibility)\nNow: 2025-10-12 23:27 UTC\n\n• BNB (BNB) — 1h +1.10% — Price $1,297.47 — Vol 8,968,671,264",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 3,
+          "type": "bold"
+        }
+      ]
+    }
+  },
+  "probe": {
+    "count": 1
+  }
+}
+[anomalies] done.
