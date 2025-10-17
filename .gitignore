@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs & state
+*.log
+.state/
+
+# Secrets
+.env
+.env.*.local
+*.key
+*.pem
+
+# Caches
+.cache/
+.mypy_cache/
+.pytype/
+pytest_cache/
+
+# Node (if any)
+node_modules/
