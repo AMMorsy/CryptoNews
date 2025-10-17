@@ -33,6 +33,4 @@ Thumbs.db
 .mypy_cache/
 .pytype/
 pytest_cache/
-
-# Node (if any)
 node_modules/
